@@ -1,0 +1,36 @@
+{
+  "projectName": "first-project",
+  "teamMembers": [
+    {
+      "_id": "67cc6a7162fea29c9e231da8",
+      "name": "suraj",
+      "email": "suraj1999@gmail.com",
+      "role": "Member"
+    },
+    {
+      "_id": "67cc514c50c96dbc23be84b4",
+      "name": "dhiraj",
+      "email": "dhirajgarad46@gmail.com",
+      "role": "Admin"
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "67cc6ec9a72abbfedf43b0cd",
+      "title": "Todo",
+      "description": "Check-all-todo",
+      "dueDate": "27-03-2025",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "67cc514c50c96dbc23be84b4",
+      "reporter": "67cc6a7162fea29c9e231da8",
+      "comments": [
+        "67cc712c7c835db6676ca456"
+      ],
+      "files": [],
+      "createdAt": "2025-03-08T16:22:33.656Z",
+      "updatedAt": "2025-03-08T16:32:44.174Z",
+      "__v": 1
+    }
+  ]
+}
