@@ -3,7 +3,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 const app=express();
-const allowedOrigins = ['http://localhost:5173'];
+const allowedOrigins = ['https://vite-project-l73krpxjv-dhiraj19999s-projects.vercel.app'];
 const corsOptions = {
     origin: function (origin, callback) {
       // Allow the request if it comes from allowedOrigins or if there's no origin (for non-browser requests)
